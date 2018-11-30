@@ -31,5 +31,10 @@ export class StudentService {
     getAllStudents(): Observable<Student[]> {
         return this.http.get<Student[]>(GET_ALL_STUDENTS_URL);
     }
-    
+
+    addStudent(s: Student): Observable<ActionStatus> {
+
+        return this.http.post<ActionStatus>(ADD_STUDENTS_URL, s, httpOptions);
+    }
+
 }
