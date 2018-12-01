@@ -4,6 +4,11 @@ A small Angular application which acts as the frontend of [kariera2018-angular](
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
+## Branches
+
+* `master`: contains the exercise as it is taught inside the workshop with TODO items/goals to be missing.
+* `complete`: contains the complete solution
+
 ## Requirements
 
 To develop and run this application you need to:
