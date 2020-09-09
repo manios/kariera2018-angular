@@ -1,8 +1,8 @@
-# KarieraStudents
+# Kariera2018Angular
 
 A small Angular application which acts as the frontend of [kariera2018-angular](https://github.com/manios/kariera2018-angular)  It was developed as a tutorial of Spring Boot and Angular for workshop puproses on  [Devs Kariera 2018 day in Athens](https://devs.kariera.gr/developers-day-december-2018/), Greece (2018-12-01).
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
 
 ## Branches
 

@@ -1,7 +1,6 @@
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Observable } from 'rxjs';
-import { ActionStatus } from './action-status';
 import { Student } from './student';
 
 const API_URL: string = 'http://localhost:8081/students';
